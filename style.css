@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./assets/fechodomorro.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  font-family: "Slabo", Verdana;
+  margin: 0;
+}
